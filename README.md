@@ -1,7 +1,8 @@
 # Welcome to the Community-Collaborative Approaches Lab
 
 CONTENTS:
-1. Motivations for CCA in computing projects
-2. General timeline of CCA projects in computing
-3. Highlights and Bloopers of CCA
-4. Conceptual ideas and plans
+1. Community guidelines
+2. Motivations for CCA in computing projects
+3. General timeline of CCA projects in computing
+4. Highlights and Bloopers of CCA
+5. Conceptual ideas and plans
