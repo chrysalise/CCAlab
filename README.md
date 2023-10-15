@@ -9,3 +9,5 @@ CONTENTS:
 3. General timeline of CCA projects in computing
 4. Highlights and Bloopers of CCA
 5. Conceptual ideas and plans
+![alt text](https://github.com/chrysalise/CCAlab/blob/main/Maintenence%20lab%20idea.png)
+
